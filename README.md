@@ -13,5 +13,6 @@ My First Raspberry Pi Project - PiKVM. AND my first 3D printer project.
 * Cura Slicer - https://ultimaker.com/software/ultimaker-cura/
 
 ## What you'll get
-* 3D printer
 * Wireless KVM
+* 3D Printer
+* 1kg of PLA
