@@ -11,3 +11,7 @@ My First Raspberry Pi Project - PiKVM. AND my first 3D printer project.
 * PiKVM - https://files.pikvm.org/images/v2-hdmi-zero2w-latest.img.xz
 * Case STL - https://www.printables.com/model/131408-raspberry-pi-zero-2-w-case-pikvm
 * Cura Slicer - https://ultimaker.com/software/ultimaker-cura/
+
+## What you'll get
+* 3D printer
+* Wireless KVM
