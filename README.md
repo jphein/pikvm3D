@@ -1,4 +1,4 @@
-# pikvm
+# pikvm3D
 My First Raspberry Pi Project - PiKVM. AND my first 3D printer project. 
 
 ## What you'll need Costs $98
